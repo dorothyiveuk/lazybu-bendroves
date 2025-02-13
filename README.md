@@ -1,1 +1,1 @@
-# lazybu-bendroves
+# lazybu bendroves
